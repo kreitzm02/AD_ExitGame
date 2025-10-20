@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\source\\adexitgame\\player\\playercharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\intermediate\\build\\win64\\x64\\adexitgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\adexitgame\\definitions.adexitgame.h",
+            "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\source\\adexitgame\\player\\playercharacter.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\program files\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\intermediate\\build\\win64\\unrealeditor\\inc\\adexitgame\\uht\\playercharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

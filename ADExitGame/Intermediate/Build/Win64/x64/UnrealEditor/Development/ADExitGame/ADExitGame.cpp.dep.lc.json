@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\source\\adexitgame\\adexitgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\intermediate\\build\\win64\\x64\\adexitgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\adexitgame\\definitions.adexitgame.h",
+            "c:\\users\\hunde\\desktop\\github repos\\ad_exitgame\\adexitgame\\source\\adexitgame\\adexitgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
