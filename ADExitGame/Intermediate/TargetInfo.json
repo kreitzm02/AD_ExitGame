@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ADExitGame",
+			"Path": "..\\Source\\ADExitGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ADExitGameEditor",
+			"Path": "..\\Source\\ADExitGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
